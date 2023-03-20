@@ -1,0 +1,6 @@
+E:\.Net\ApiProjects\StudentApi\Dto\bin\Debug\Dto.dll
+E:\.Net\ApiProjects\StudentApi\Dto\bin\Debug\Dto.pdb
+E:\.Net\ApiProjects\StudentApi\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+E:\.Net\ApiProjects\StudentApi\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+E:\.Net\ApiProjects\StudentApi\Dto\obj\Debug\Dto.dll
+E:\.Net\ApiProjects\StudentApi\Dto\obj\Debug\Dto.pdb
