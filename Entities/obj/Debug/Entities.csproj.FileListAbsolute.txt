@@ -10,3 +10,14 @@ E:\.Net\ApiProjects\StudentApi\Entities\obj\Debug\Entities.csproj.CoreCompileInp
 E:\.Net\ApiProjects\StudentApi\Entities\obj\Debug\Entities.csproj.CopyComplete
 E:\.Net\ApiProjects\StudentApi\Entities\obj\Debug\Entities.dll
 E:\.Net\ApiProjects\StudentApi\Entities\obj\Debug\Entities.pdb
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\Entities.dll.config
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\Entities.dll
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\Entities.pdb
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\EntityFramework.dll
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\EntityFramework.xml
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\.Net\ApiProjects\EmployeeApi\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+E:\.Net\ApiProjects\EmployeeApi\Entities\obj\Debug\Entities.csproj.CopyComplete
+E:\.Net\ApiProjects\EmployeeApi\Entities\obj\Debug\Entities.dll
+E:\.Net\ApiProjects\EmployeeApi\Entities\obj\Debug\Entities.pdb
