@@ -21,3 +21,11 @@ E:\.Net\ApiProjects\EmployeeApi\Entities\obj\Debug\Entities.csproj.CoreCompileIn
 E:\.Net\ApiProjects\EmployeeApi\Entities\obj\Debug\Entities.csproj.CopyComplete
 E:\.Net\ApiProjects\EmployeeApi\Entities\obj\Debug\Entities.dll
 E:\.Net\ApiProjects\EmployeeApi\Entities\obj\Debug\Entities.pdb
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\Unity.Abstractions.dll
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\Unity.Container.dll
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\Unity.Abstractions.pdb
+E:\.Net\ApiProjects\EmployeeApi\Entities\bin\Debug\Unity.Container.pdb
+E:\.Net\ApiProjects\EmployeeApi\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache

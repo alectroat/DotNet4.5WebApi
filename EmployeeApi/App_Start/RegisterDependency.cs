@@ -14,9 +14,8 @@ namespace EmployeeApi.App_Start
     {
         public static void Register(HttpConfiguration config)
         {
-            var container = new UnityContainer();
-            container.RegisterType<IEmployeeBll, EmployeeBll>();
-            container.RegisterChildDependency();
+            var container = new UnityContainer();            
+            container.RegisterBllDependency();
             config.DependencyResolver = new UnityResolver(container);
         }
     }

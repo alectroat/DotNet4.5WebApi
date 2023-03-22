@@ -1,20 +1,19 @@
-﻿using Entities.Context;
+﻿using BLL.Employee;
+using Entities.Context;
+using Entities.Infrastructure;
 using Services.Employee;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Services.Infrastructure;
 using Unity;
 
 namespace BLL.Infrastructure
 {
     public static class RegisterDependency
     {
-        public static void RegisterChildDependency(this UnityContainer container)
+        public static void RegisterBllDependency(this UnityContainer container)
         {
-            container.RegisterType<IEmployeeService, EmployeeService>();
-            container.RegisterType<MyContext>();
+            container.RegisterType<IEmployeeBll, EmployeeBll>();
+            container.RegisterDbContext();
+            container.RegisterServiceDependency();            
         }
     }
 }

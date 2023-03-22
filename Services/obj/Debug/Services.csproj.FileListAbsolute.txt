@@ -32,3 +32,10 @@ E:\.Net\ApiProjects\EmployeeApi\Services\obj\Debug\Services.csproj.CoreCompileIn
 E:\.Net\ApiProjects\EmployeeApi\Services\obj\Debug\Services.csproj.CopyComplete
 E:\.Net\ApiProjects\EmployeeApi\Services\obj\Debug\Services.dll
 E:\.Net\ApiProjects\EmployeeApi\Services\obj\Debug\Services.pdb
+E:\.Net\ApiProjects\EmployeeApi\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\.Net\ApiProjects\EmployeeApi\Services\bin\Debug\Unity.Abstractions.dll
+E:\.Net\ApiProjects\EmployeeApi\Services\bin\Debug\Unity.Container.dll
+E:\.Net\ApiProjects\EmployeeApi\Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\.Net\ApiProjects\EmployeeApi\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\.Net\ApiProjects\EmployeeApi\Services\bin\Debug\Unity.Abstractions.pdb
+E:\.Net\ApiProjects\EmployeeApi\Services\bin\Debug\Unity.Container.pdb
